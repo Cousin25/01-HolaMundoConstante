@@ -21,12 +21,8 @@ package org.japo.java.main;
  */
 public class Main {
 
-    
     public static void main(String[] args) {
-        final String SALUDO_CONSTANTE="¡Hola Mundo!";
+        final String SALUDO_CONSTANTE = "¡Hola Mundo!";
         System.out.println(SALUDO_CONSTANTE);
-        
-        
     }
-    
 }
